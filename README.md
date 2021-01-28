@@ -19,7 +19,7 @@ Auteurs originaux :
 HTML et PDF construits automatiquement : <https://particule.io/formations/>
 
 * Kubernetes [PDF](https://particule.io/formations/pdf/kubernetes-ube.fr.pdf)/[HTML](https://particule.io/formations/kubernetes-ube.fr.html)
-* Conteneurs [PDF](https://particule.io/formations/pdf/conteneurs-ccb.fr.pdf)/[HTML](https://particule.io/formations/conteners-ccb.fr.html)
+* Conteneurs [PDF](https://particule.io/formations/pdf/conteneurs-ccb.fr.pdf)/[HTML](https://particule.io/formations/conteneurs-ccb.fr.html)
 * Cloud [PDF](https://particule.io/formations/pdf/cloud.fr.pdf)/[HTML](https://particule.io/formations/cloud.fr.html)
 * Docker [PDF](https://particule.io/formations/pdf/docker.fr.pdf)/[HTML](https://particule.io/formations/docker.fr.html)
 * OpenStack User [PDF](https://particule.io/formations/pdf/openstack-user.fr.pdf)/[HTML](https://particule.io/formations/openstack-user.fr.html)
